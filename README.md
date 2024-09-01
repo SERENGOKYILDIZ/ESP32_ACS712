@@ -1,7 +1,8 @@
-# Circuit
+# ESP32 ACS712
+## Circuit
 ![deneme](circuit.png)
 
-# Code
+## Code
 ```c++
 ////////////////////////////////////////////////////////////////////////////////////////////
 // ACS712 ile akım ölçümü yapan Arduino kodu (30A modeli)
