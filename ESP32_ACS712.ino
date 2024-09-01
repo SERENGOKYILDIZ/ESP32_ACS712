@@ -2,7 +2,7 @@
 // ACS712 ile akım ölçümü yapan Arduino kodu (30A modeli)
 const int analogPin = 39; // ACS712'nin bağlı olduğu analog pin
 const float sensitivity = 0.066; // ACS712 30A modeli için hassasiyet (mV/A)
-const float offsetVoltage = 2.30; // ACS712'nin sıfır akımda çıkardığı voltaj
+const float offsetVoltage = 2.25; // ACS712'nin sıfır akımda çıkardığı voltaj
 
 int R1 = 1; //k ohm
 int R2 = 2; //k ohm
